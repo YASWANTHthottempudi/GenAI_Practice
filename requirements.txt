@@ -1,0 +1,10 @@
+ipykernel
+langchain
+langchain-community
+langchain-ollama
+python-dotenv
+beautifulsoup4
+langchain-openai
+chromadb
+langchain-groq
+langchain-core
